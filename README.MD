@@ -16,7 +16,7 @@
 
 * Escolaridade: Cursando DEV técnico, e Ensino Médio
 
-* E-mail: lipepyxgmail.com
+* E-mail: lipepr4yxgmail.com
 
 ***
 
