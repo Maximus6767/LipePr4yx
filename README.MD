@@ -8,17 +8,15 @@
 
 * Nome: Felipe Maximus Ribeiro Rodrigues
 
-* Idade: 16 anos
+* Idade: 17 anos
 
 * Cidade: Presidente Prudente
 
-* Telefone: (66) 66666-6666
+* Telefone: (18) 98119-5551
 
 * Escolaridade: Cursando DEV técnico, e Ensino Médio
 
-* CPF: 666.666.666-66
-
-* E-mail: felipe.m.rodrigues11@aluno.senai.br
+* E-mail: lipepyxgmail.com
 
 ***
 
